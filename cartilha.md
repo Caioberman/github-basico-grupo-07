@@ -91,6 +91,9 @@ Normalmente, ele contém:
 
 É geralmente o primeiro arquivo que uma pessoa encontra ao acessar um repositório.
 
+<img width="1279" height="545" alt="colocando arquivos na pasta (1)" src="https://github.com/user-attachments/assets/f381247a-32cf-4094-9d0e-1ad1f61b31ef" />
+
+
 ### Markdown
 
 Markdown é uma linguagem de marcação simples utilizada para formatar textos.
