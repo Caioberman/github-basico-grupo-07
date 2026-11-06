@@ -24,7 +24,7 @@ Matheus Henrique Viana Fernandes
 
 Neste repositório você encontrará:
 
-Cartilha digital – Explicações sobre Git, GitHub, repositórios, commits, branches, pull requests e merge.
+Cartilha digital – Explicações sobre **Git, GitHub, repositórios, commits, branches, pull requests e merge**.
 Prática colaborativa – Registro das atividades realizadas pelos integrantes para testar o compartilhamento de arquivos.
 Registro do uso da IA – Prompts utilizados, respostas verificadas e referências consultadas.
 Imagens – Capturas de tela das atividades realizadas no GitHub.
