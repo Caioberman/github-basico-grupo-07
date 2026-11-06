@@ -13,6 +13,7 @@ Ensinar pessoas iniciantes a utilizar o GitHub pelo navegador, apresentando suas
 👥 Integrantes do grupo
 Caio Antônio Pereira Rodrigues Gomes
 João Anizio Correia Neto
+Matheus Henrique Viana Fernandes
 
 📖 Conteúdo do trabalho
 
