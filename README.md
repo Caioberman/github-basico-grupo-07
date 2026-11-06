@@ -4,6 +4,8 @@ Apresentação
 
 Este repositório foi criado como parte de uma atividade escolar com o objetivo de aprender e ensinar os conceitos básicos do GitHub.
 
+Deixamos o projeto público para maior facilidade no acesso tanto dos membros como de visitantes e professores.
+
 Nosso trabalho apresenta uma cartilha digital com explicações simples sobre como utilizar o GitHub, criar repositórios, compartilhar arquivos e colaborar em projetos com outras pessoas.
 
 🎯 Objetivo
