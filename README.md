@@ -43,9 +43,6 @@ Realização de merge.
 
 Professora responsável: Eliane Ribeiro.
 
-## 🤖 **Utilização da inteligência artificial**
-
-Utilizamos o ChatGPT como ferramenta de apoio à pesquisa, organização e revisão do conteúdo. As informações foram conferidas pelos integrantes por meio da documentação oficial do GitHub e dos testes realizados na plataforma.
 
 ## 📚 **Referências**
 https://docs.github.com/pt/get-started/using-github/hello-world
