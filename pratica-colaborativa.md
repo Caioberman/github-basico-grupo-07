@@ -9,3 +9,7 @@ Alteração feita para o pull request
 Os nomes dos arquivos devem indicar seu conteúdo de maneira simples e objetiva.
 
 Evite utilizar nomes confusos, como arquivo1, teste2 ou imagemnova.
+
+
+Para começar no GitHub é manter seus repositórios organizados e fazer commits pequenos e frequentes, sempre com mensagens claras. 
+Isso facilita entender mudanças, colaborar com outras pessoas e evitar erros comuns.
