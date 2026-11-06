@@ -48,3 +48,5 @@ https://docs.github.com/pt/repositories/working-with-files
 https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository
 
 Trabalho desenvolvido em grupo – GitHub Básico.
+
+Conferido seu README - Prof. Eliane Ribeiro
