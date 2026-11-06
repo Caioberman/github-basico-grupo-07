@@ -69,7 +69,8 @@ No GitHub, os repositórios também armazenam o histórico de alterações reali
 
 Pronto! Seu primeiro repositório estará criado.
 
----
+--- <img width="1138" height="926" alt="Criando um repositorio no GitHub" src="https://github.com/user-attachments/assets/a89c24e7-14d4-4f52-91fb-19583119d15b" />
+
 
 # 3. Para que servem README, Markdown, commit e histórico de alterações?
 
@@ -336,6 +337,7 @@ O GitHub registrará a nova versão no histórico do projeto.
 4. Selecione a opção para criar uma nova branch a partir da atual.
 
 Agora você poderá trabalhar em uma versão separada do projeto.
+
 
 ## Etapa 7 – Criando um Pull Request
 
