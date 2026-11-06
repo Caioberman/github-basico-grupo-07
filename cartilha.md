@@ -3,7 +3,8 @@
 
 **Objetivo:** Ensinar novos usuários a compreender e utilizar o GitHub, apresentando suas principais funcionalidades e ferramentas, desde a criação de uma conta até o compartilhamento e gerenciamento de projetos.
 
----
+---<img width="700" height="700" alt="cbb993a9f7929507d21f41155e0d374c" src="https://github.com/user-attachments/assets/218efada-a426-4e64-bc24-710140b39377" />
+
 
 # 1. O que é GitHub e qual é a diferença entre Git e GitHub?
 
