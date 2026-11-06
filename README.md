@@ -1,4 +1,4 @@
-📚 GitHub para Iniciantes
+# **GITHUB PARA INICIANTES**
 
 Apresentação
 
@@ -8,16 +8,19 @@ Deixamos o projeto público para maior facilidade no acesso tanto dos membros co
 
 Nosso trabalho apresenta uma cartilha digital com explicações simples sobre como utilizar o GitHub, criar repositórios, compartilhar arquivos e colaborar em projetos com outras pessoas.
 
-🎯 Objetivo
+## 🎯 **Objetivo**
 
 Ensinar pessoas iniciantes a utilizar o GitHub pelo navegador, apresentando suas principais ferramentas e funcionalidades de maneira prática e fácil de compreender.
 
-👥 Integrantes do grupo
+👥 **Integrantes do grupo**
+
 Caio Antônio Pereira Rodrigues Gomes
+
 João Anizio Correia Neto
+
 Matheus Henrique Viana Fernandes
 
-📖 Conteúdo do trabalho
+## 📖 **Conteúdo do trabalho**
 
 Neste repositório você encontrará:
 
@@ -40,11 +43,11 @@ Realização de merge.
 
 Professora responsável: Eliane Ribeiro.
 
-🤖 Utilização da inteligência artificial
+## 🤖 **Utilização da inteligência artificial**
 
 Utilizamos o ChatGPT como ferramenta de apoio à pesquisa, organização e revisão do conteúdo. As informações foram conferidas pelos integrantes por meio da documentação oficial do GitHub e dos testes realizados na plataforma.
 
-📚 Referências
+## 📚 **Referências**
 https://docs.github.com/pt/get-started/using-github/hello-world
 https://docs.github.com/pt/repositories/working-with-files
 https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/repository-access-and-collaboration/inviting-collaborators-to-a-personal-repository
