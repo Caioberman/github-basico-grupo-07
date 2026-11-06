@@ -188,6 +188,7 @@ Durante essa análise, os colaboradores podem:
 - Solicitar correções.
 - Aprovar as modificações.
 
+
 ### Merge
 
 O *merge* é o processo de integrar as alterações de uma branch em outra.
@@ -205,7 +206,8 @@ Por exemplo, depois que uma funcionalidade é desenvolvida e aprovada por meio d
 
 Esse processo ajuda a evitar conflitos e mantém o desenvolvimento organizado.
 
----
+---<img width="1134" height="794" alt="fazendo branch pull request e merge" src="https://github.com/user-attachments/assets/781240b8-ad6c-4af8-b2e7-788890866549" />
+
 
 # 5. Como compartilhar um repositório e quais cuidados tomar ao publicar arquivos?
 
@@ -274,6 +276,8 @@ A seguir, está um roteiro prático para realizar as primeiras atividades na pla
 7. Finalize o cadastro.
 
 Depois de criar a conta, faça login na plataforma.
+
+<img width="1350" height="857" alt="Criando uma conta no GitHub" src="https://github.com/user-attachments/assets/e3fe86bf-e290-438a-b7f5-f380da55ac53" />
 
 ## Etapa 2 – Conhecendo a interface
 
