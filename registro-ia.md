@@ -1,4 +1,4 @@
-Registro do uso da Inteligência Artificial
+# **Registro do uso da Inteligência Artificial**
 
 Durante a realização deste trabalho, utilizamos o ChatGPT, uma ferramenta de inteligência artificial desenvolvida pela OpenAI, como apoio à pesquisa, organização e produção da cartilha sobre o GitHub.
 
@@ -11,11 +11,11 @@ Entender o funcionamento de commits, branches, pull requests e merge.
 Organizar as informações da cartilha.
 Melhorar a clareza dos textos e das explicações.
 
-Prompt utilizado
+# **Prompt utilizado**
 
 “Somos iniciantes e vamos produzir uma cartilha ou minicurso sobre GitHub pelo navegador. Explique repositório, README, Markdown, commit, branch, pull request e merge com exemplos simples. Diferencie Git de GitHub. Indique o que precisamos conferir na documentação oficial e faça perguntas para verificar nossa compreensão.”
 
-Respostas da IA que foram verificadas
+# **Respostas da IA que foram verificadas**
 
 A IA explicou que o Git é um sistema de controle de versões e que o GitHub é uma plataforma online utilizada para hospedar projetos e facilitar a colaboração.
 
